@@ -1,0 +1,122 @@
+
+
+## Topics Learned
+
+* Python Developer Roadmap
+* Machine Learning Engineer Role
+* AI Developer vs AI Engineer
+* Generative AI vs AI Agents vs Agentic AI
+* VS Code Workflow
+* GitHub Workflow
+* Jupyter Notebook / Colab / Kaggle Basics
+
+---
+
+#  Python Developer Roadmap
+
+Learned the basic roadmap for becoming a Python Developer:
+
+Python Basics → OOP → GitHub → VS Code → Jupyter Notebook → Backend Development → Data Analysis → Machine Learning → Projects
+
+---
+
+#  Machine Learning Engineer
+
+Learned about:
+* ML models
+* Data processing
+* Model training
+* Model deployment
+
+---
+
+#  AI Concepts
+
+##  Generative AI
+
+AI that generates:
+
+* Text
+* Images
+* Audio
+* Code
+
+##  AI Developer
+
+Builds AI-based applications and tools.
+
+##  AI Engineer
+
+Works on scalable AI systems and deployment.
+
+##  Agentic AI
+
+AI systems that can reason, plan, and perform tasks automatically.
+
+---
+
+#  VS Code & GitHub Workflow
+
+Practiced:
+
+* Creating repositories
+* Using Git commands
+* Managing projects in VS Code
+
+### Git Commands
+
+```bash
+git init
+git add .
+git commit -m "message"
+git push
+git pull
+```
+
+---
+
+#  Jupyter Notebook / Colab / Kaggle
+
+Learned basics of:
+
+* Jupyter Notebook
+* Google Colab
+* Kaggle
+
+Used for:
+
+* Python programming
+* Machine Learning
+* Data Science
+* AI projects
+
+---
+
+# 🎥 Learning Videos
+
+1️. VS Code Basics
+https://youtu.be/bN6DE-4uFNo?si=VhM9OJ0RVgRP8rba
+
+2️. GitHub Basics & Workflow
+https://youtu.be/a9u2yZvsqHA?si=c4UTv7CJdnsR1pOk
+
+3️. Jupyter Notebook Guide
+https://youtu.be/5pf0_bpNbkw?si=jQA1kQdK7-6SWWWO
+
+4️.Machine Learning Engineer
+https://youtu.be/GDCnydDWRnM?si=hrWJeFfSa9NCopsc
+
+5️. Python Developer Roadmap
+https://youtu.be/Y8Tko2YC5hA?si=cwH2lw69ODI7BQL3
+
+---
+
+#  Key Takeaways
+
+* Understood Python Developer roadmap
+* Learned AI and ML concepts
+* Practiced GitHub workflow
+* Explored Jupyter Notebook, Colab, and Kaggle
+
+---
+

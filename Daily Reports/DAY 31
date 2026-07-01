@@ -1,0 +1,18 @@
+Work Summary
+Learned SQL joins.
+Studied aggregate functions.
+Explored indexing.
+Learned query optimization.
+Understood transactions and ACID properties.
+
+WORKFLOW :
+
+Database Design
+    ↓
+Tables
+    ↓
+Queries
+    ↓
+Optimization
+    ↓
+Backend Integration

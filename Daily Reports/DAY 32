@@ -1,0 +1,6 @@
+Work Summary :
+Implemented SMTP connection.
+Developed email sending module.
+Added sender authentication.
+Tested single-recipient email delivery.
+

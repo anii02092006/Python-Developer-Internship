@@ -1,0 +1,96 @@
+Today’s learning focused on understanding the basic development workflow and setup tools required for real-world software, Python, and Machine Learning projects.
+
+---
+
+#  Topics Covered
+
+## VS Code Basics
+
+1. Introduction to Visual Studio Code
+2.Installing and setting up VS Code
+3.Opening and managing project folders
+4.Exploring extensions and editor features
+
+##  GitHub Basics
+
+1.Understanding GitHub and repositories
+2.Creating a new GitHub repository
+3.Managing project files online
+
+## Git Commands
+
+Practiced essential Git commands:
+```bash
+git init
+git add .
+git commit -m "message"
+git status
+git push
+git pull
+git clone URL
+```
+
+---
+
+# Development Workflow Understanding
+
+Learned the complete workflow used in development projects:
+
+```text
+Install VS Code
+→ Create Project Folder
+→ Open in VS Code
+→ Create GitHub Repository
+→ Initialize Git
+→ Commit Changes
+→ Push Code to GitHub
+→ Use Jupyter Notebook for Python/ML Work
+```
+
+---
+
+# Jupyter Notebook Basics
+
+* Introduction to Jupyter Notebook
+* Installing notebook using pip
+* Running Python code interactively
+* Understanding ML/Data Science workflow
+
+### Installation Command
+
+```bash
+pip install notebook
+```
+
+### Start Jupyter Notebook
+
+```bash
+jupyter notebook
+```
+
+
+# 🎥 Learning Resources
+
+## 1️. VS Code Basics
+
+https://youtu.be/bN6DE-4uFNo?si=VhM9OJ0RVgRP8rba
+
+## 2️. GitHub Basics & Workflow
+
+https://youtu.be/a9u2yZvsqHA?si=c4UTv7CJdnsR1pOk
+
+## 3️. Jupyter Notebook Basics
+
+https://youtu.be/PxMN8xT9NbA?si=FFeXu8IJl4jeFlll
+
+---
+
+# 📖 Key Takeaways
+
+* Learned how professional developers manage projects
+* Understood GitHub workflow and version control basics
+* Practiced pushing code to repositories
+* Explored VS Code features and extensions
+* Understood Jupyter Notebook usage for Python and ML
+
+

@@ -1,0 +1,31 @@
+# Day 16 - Django Framework Basics
+
+## Topics Learned
+
+* Introduction to Django
+* Django project structure
+* Models, Views & Templates (MVT Architecture)
+* Authentication basics
+* Backend architecture understanding
+
+## Practical Understanding
+
+* Learned how Django manages backend development
+* Understood project structure and app workflow
+* Explored models, views, and template integration
+* Learned basics of authentication system in Django
+
+## Learning Resources
+
+* Django Full Tutorial for Beginners
+
+## Learning Outcome
+
+* Basic understanding of Django framework
+* Improved backend workflow knowledge
+* Better understanding of real-world backend architecture
+* Learned structured Python web development concepts
+
+## Project Connection
+
+This learning helps in understanding how scalable backend systems can be developed using Python frameworks and how automation projects like the SMTP Email Sender Script can be integrated into web applications in the future.

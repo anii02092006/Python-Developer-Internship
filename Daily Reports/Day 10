@@ -1,0 +1,24 @@
+# Day 10 - Project Implementation Day 1
+
+## Work Done
+
+* Started implementation of the Email Sender Script using Python
+* Understood SMTP workflow and email sending process
+* Created initial project structure:
+
+  * main.py
+  * config.py
+  * README.md
+* Setup development environment in VS Code
+* Initialized GitHub repository and continued work on dev branch
+
+## Learning Outcome
+
+* Learned how SMTP works in Python
+* Understood backend flow for sending emails programmatically
+* Improved project structure understanding
+
+## Project Reference
+
+Project: Email Sender Script (SMTP)
+Tech Used: Python, smtplib, MIME modules
